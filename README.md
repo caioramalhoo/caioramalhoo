@@ -39,8 +39,8 @@ _(Mais projetos em desenvolvimento 🚧)_
 
 ## 📊 GitHub Stats
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caioramalhoo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioramalhoo&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioramalhoo&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caioramalhoo&layout=compact)
 
 ---
 
