@@ -2,7 +2,7 @@
 
 🎯 **Desenvolvedor em formação | Estágio / Júnior | Full Stack**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação, focado em criar aplicações web completas, bem estruturadas e com boas práticas. Trabalho com HTML, CSS, JavaScript, React, Node.js e Python, aplicando esses conhecimentos em projetos práticos para consolidar aprendizado.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação, focado em criar aplicações web completas, bem estruturadas e com boas práticas, aplicando esses conhecimentos em projetos práticos para consolidar aprendizado.
 
 Busco uma oportunidade de estágio ou vaga júnior onde eu possa evoluir em equipe, ganhar experiência com projetos reais e contribuir com dedicação, curiosidade e vontade de aprender.
 
