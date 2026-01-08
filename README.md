@@ -2,7 +2,9 @@
 
 🎯 **Desenvolvedor em formação | Estágio / Júnior | Full Stack**
 
-Sou apaixonado por tecnologia e desenvolvimento web. Atualmente estou focado em aprender, praticar e evoluir como desenvolvedor **Full Stack**, criando projetos práticos e buscando minha primeira oportunidade profissional na área.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação, focado em criar aplicações web completas, bem estruturadas e com boas práticas. Trabalho com HTML, CSS, JavaScript, React, Node.js e Python, aplicando esses conhecimentos em projetos práticos para consolidar aprendizado.
+
+Busco uma oportunidade de estágio ou vaga júnior onde eu possa evoluir em equipe, ganhar experiência com projetos reais e contribuir com dedicação, curiosidade e vontade de aprender.
 
 ---
 
@@ -14,16 +16,6 @@ Sou apaixonado por tecnologia e desenvolvimento web. Atualmente estou focado em 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 📌 Sobre mim
-
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas 
-- 📚 Sempre buscando aprender novas tecnologias  
-- 🔍 Interesse em estágio ou vaga júnior  
-- 🛠️ Gosto de transformar ideias em projetos reais  
-- 🤝 Aberto a feedbacks e colaboração  
 
 ---
 
