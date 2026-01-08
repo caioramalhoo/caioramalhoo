@@ -37,13 +37,6 @@ _(Mais projetos em desenvolvimento 🚧)_
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioramalhoo&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caioramalhoo&layout=compact)
-
----
-
 ## 📫 Onde me encontrar
 
 - 📧 Email: caioramalhoo@gmail.com
