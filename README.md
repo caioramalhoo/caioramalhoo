@@ -29,10 +29,4 @@ _(Mais projetos em desenvolvimento 🚧)_
 
 ---
 
-## 📫 Onde me encontrar
-
-- 📧 Email: caioramalhoo@gmail.com
-- 💼 [GitHub](https://github.com/caioramalhoo)
-- 💼 [Linkedin](https://www.linkedin.com/in/caioramalhoo/)
-
 ⭐ Se gostou de algum projeto, fique à vontade pra dar uma estrela!
